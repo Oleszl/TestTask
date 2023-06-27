@@ -1,5 +1,11 @@
 package org.example;
 
+import org.example.factory.ProductFactory;
+import org.example.model.Order;
+import org.example.model.Product;
+import org.example.model.RealProduct;
+import org.example.model.User;
+
 import java.time.LocalDate;
 import java.util.*;
 import java.util.function.Function;

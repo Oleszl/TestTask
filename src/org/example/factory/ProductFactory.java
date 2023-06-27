@@ -1,8 +1,11 @@
-package org.example;
+package org.example.factory;
+
+import org.example.model.RealProduct;
+import org.example.model.VirtualProduct;
 
 import java.time.LocalDate;
 
-public class ProductFactory {
+public final class ProductFactory {
     private ProductFactory() {
     }
 

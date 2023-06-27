@@ -1,4 +1,4 @@
-package org.example;
+package org.example.model;
 
 public class RealProduct extends Product {
     private final int size;
